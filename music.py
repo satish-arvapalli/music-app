@@ -1,8 +1,8 @@
+import os
 from tkinter import *
 from tkinter.filedialog import askdirectory
 from mutagen.id3 import ID3
 import pygame
-import os
 
 root = Tk()
 root.minsize(300, 300)
